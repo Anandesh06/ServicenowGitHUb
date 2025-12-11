@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_390501_first.Document Approver</api_name>
+        <description>Role for document approver</description>
+        <name>Document Approver</name>
+        <role_names/>
+        <roles name="x_390501_first.approver">cb7bcef6a0103210f90d96daf7926ca7</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-04 02:29:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ba7b8ef62f1032100cb034912e36c3ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Document Approver</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="First" source="x_390501_first">627b8ef65410321042df7d0783f5b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="First">627b8ef65410321042df7d0783f5b281</sys_scope>
+        <sys_update_name>sys_ux_applicability_ba7b8ef62f1032100cb034912e36c3ea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-04 02:29:56</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>

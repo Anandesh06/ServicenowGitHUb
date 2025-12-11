@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission">
+    <par_dashboard_permission action="INSERT_OR_UPDATE">
+        <can_read>true</can_read>
+        <can_share>false</can_share>
+        <can_write>true</can_write>
+        <dashboard display_value="Document Approvals">0b7bcef6361032106bf3c0a570c86391</dashboard>
+        <group/>
+        <owner>false</owner>
+        <role display_value="x_390501_first.approver" name="x_390501_first.approver">cb7bcef6a0103210f90d96daf7926ca7</role>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-04 02:29:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c37bcef627103210647f6f2ae2b3df90</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0b7bcef6361032106bf3c0a570c86391</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="First" source="x_390501_first">627b8ef65410321042df7d0783f5b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="First">627b8ef65410321042df7d0783f5b281</sys_scope>
+        <sys_update_name>par_dashboard_permission_c37bcef627103210647f6f2ae2b3df90</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-04 02:29:49</sys_updated_on>
+        <user/>
+    </par_dashboard_permission>
+</record_update>

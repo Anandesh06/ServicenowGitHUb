@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>c37bcef6ea103210f7f4279458b053a8</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes>{"login":"login", "logout": "login", "custom404":"custom404"}</auth_routes>
+        <page/>
+        <parent_app/>
+        <path>x_390501_first-doc-approval/portal</path>
+        <root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-04 02:29:37</sys_created_on>
+        <sys_id>cf7bcef6af103210288f0509d813eea6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>First Portal</sys_name>
+        <sys_package display_value="First" source="x_390501_first">627b8ef65410321042df7d0783f5b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="First">627b8ef65410321042df7d0783f5b281</sys_scope>
+        <sys_update_name>sys_ux_page_registry_cf7bcef6af103210288f0509d813eea6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-04 02:29:37</sys_updated_on>
+        <title>First Portal</title>
+    </sys_ux_page_registry>
+</record_update>
