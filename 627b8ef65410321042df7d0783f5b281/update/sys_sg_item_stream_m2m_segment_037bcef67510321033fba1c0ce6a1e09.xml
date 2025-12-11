@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="Needs Attention Item Stream">8b7bcef61610321026a353401424500b</item_stream>
+        <segment display_value="Item Stream Segment">837bcef6c8103210761a0cb15dab7c0a</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-04 02:29:53</sys_created_on>
+        <sys_id>037bcef67510321033fba1c0ce6a1e09</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="First" source="x_390501_first">627b8ef65410321042df7d0783f5b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="First">627b8ef65410321042df7d0783f5b281</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_037bcef67510321033fba1c0ce6a1e09</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-04 02:29:53</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

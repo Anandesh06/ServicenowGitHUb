@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Approve document">0f7bcef6bb103210acffa7e1dde9591f</button>
+        <item_parameter display_value="comments">077bcef6451032103bd70e831e97f321</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-04 02:29:49</sys_created_on>
+        <sys_id>8b7bcef693103210ee23809a07b3ba21</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>077bcef6451032103bd70e831e97f321</sys_name>
+        <sys_package display_value="First" source="x_390501_first">627b8ef65410321042df7d0783f5b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="First">627b8ef65410321042df7d0783f5b281</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_8b7bcef693103210ee23809a07b3ba21</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-04 02:29:49</sys_updated_on>
+        <ui_parameter display_value="Reason for approving">8f7bcef6c9103210cd299442f40c9820</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
