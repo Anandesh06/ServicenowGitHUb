@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
     <par_dashboard_widget action="INSERT_OR_UPDATE">
         <canvas display_value="">837bcef63a103210a8a3f7a26da3d291</canvas>
-        <component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component>
-        <component_props>{"table":"x_390501_first_document_approver","fixedQuery":"","listTitle":"All Active Tasks","columns":"document.number,sys_created_on,document.submitter,document.name,document.approval_category","maxColumns":5,"query":"approverDYNAMIC90d1921e5f510100a9ad2572f2b477fe^state=approved","groupByField":"","limit":9,"hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"wordWrap":true,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":true,"hideDotwalk":true,"hideColumnReorder":true,"hideRowSelector":false,"hideColumnGrouping":true,"hideColumnResizing":false,"hideColumnFiltering":true,"hideColumnSorting":false,"hideHeader":true,"hideTitle":true,"hideTitleRowCount":true,"hideLastRefreshedText":true,"hideRefreshButton":true,"hideInlineEditing":true,"refreshRequested":"","noDebounce":""}</component_props>
+        <component display_value="List">7ff373544303121093711347efb8f23c</component>
+        <component_props>{"dataSources":[{"allowRealTime":true,"dataCategories":["trend","group","simple"],"filterQuery":"approverDYNAMIC90d1921e5f510100a9ad2572f2b477fe^state=approved","id":"b3f42d7c5331321046ee72d0a0490ef3","isDatabaseView":false,"preferredVisualizations":[],"sourceType":"table","tableOrViewName":"x_390501_first_document_approver"}],"additionalGroupByConfig":[],"allowAdditionalGroupByPerMetric":false,"componentId":"","contextMenuActions":[],"description":"","emptyStateAlignment":"vertical-centered","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateHeading":"No data available.","emptyStateHeadingLevel":3,"emptyStateIllustration":"no-data","enableCustomEmptyState":false,"enableDrilldown":true,"enableRealTimeUpdate":false,"filterConfigurations":"@state.parFilters","headingLevel":2,"metrics":[{"aggregateFunction":"COUNT","axisId":"primary","dataSource":"dGFibGVpbmNpZGVudDE3MzYzNjA0MzU5NjM=","id":"ZEdGaWJHVnBibU5wWkdWdWRERTNNell6TmpBME16VTVOak09MTczNjM2MDQzNjgwMQ==","numberFormat":{"customFormat":false}}],"showAdditionalGroupBySelector":false,"showFilterIcon":true,"showHeaderSeparator":false,"showHeader":false,"showLoadingIndicator":false,"wrapTitle":false,"parFilter":"","parFilterConfig":[],"allowListPagination":true,"columnLimit":5,"limit":9,"maxCharLimit":4000,"columnPreferenceKey":"","bareBorder":false,"wrapCellContent":"useLineBreaksUserPref","showPersonalization":false,"hideDotwalk":false,"showColumnReorder":false,"showColumnGrouping":false,"showColumnResizing":true,"showColumnFiltering":false,"showColumnSorting":true,"followFilters":true,"groupByField":"","showLinks":true,"showViewAll":true,"showInlineEditing":false,"table":"x_390501_first_document_approver","headerTitle":"All Active Tasks","columns":"document.number,sys_created_on,document.submitter,document.name,document.approval_category"}</component_props>
         <h>13</h>
         <name/>
         <stored_component/>
@@ -12,15 +12,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>077bcef6581032109e0a55df75ed508c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package display_value="First" source="x_390501_first">627b8ef65410321042df7d0783f5b281</sys_package>
         <sys_policy/>
         <sys_scope display_value="First">627b8ef65410321042df7d0783f5b281</sys_scope>
         <sys_update_name>par_dashboard_widget_077bcef6581032109e0a55df75ed508c</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-10-04 02:29:37</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-12-11 08:07:44</sys_updated_on>
         <visualization/>
         <w>32</w>
         <widget_props/>
